@@ -156,7 +156,7 @@ function playback(index) {
             // Increment index
             index = (index + 1 === locations.length) ? 0 : index + 1;
             playback(index);
-        }, 2000); // After callback, show the location for 3 seconds.
+        }, 10000); // After callback, show the location for 3 seconds.
     });
 }
 
