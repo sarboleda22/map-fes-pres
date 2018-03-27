@@ -124,8 +124,8 @@ var locations = [{
         zoom: 16.64
     }
 }, {
-    "title": "Boroughs of new york",
-    "description": "New York City is made up of five boroughs: the Bronx, Brooklyn, Manhattan, Queens and Staten Island. Each one has enough attractions—and enough personality—to be a city all its own.",
+    "title": "Fairbanks Energy Services Projects",
+    "description": "We are an energy conservation firm dedicated to providing cost-effective retrofit solutions.",
     "camera": {
         center: [-96.1476785, 40.2744218],
         zoom: 3,
