@@ -14,6 +14,16 @@ var description = document.getElementById('location-description');
 var picture = document.getElementById('location-picture');
 
 var locations = [{
+    "title": "",
+    "description": "",
+    "picture": "img/logo.png",
+    "camera": {
+        center: [-96.1476785, 40.2744218],
+        zoom: 3,
+        bearing: 0,
+        pitch: 0
+    }
+}, {
     "id": "2",
     "title": "zColo 60 Hudson Data Center",
     "subtitle": "LED Lighting Upgrade",
@@ -28,7 +38,7 @@ var locations = [{
     "id": "3",
     "title": "Vertex Pharmaceuticals",
     "subtitle": "LED Lighting Upgrade",
-    "description": "Fairbanks Energy has completed a series of energy efficiency initiatives at the corporate headquarters of Vertex Pharmaceuticals Incorporated. The efficiency project involved the engineering and implementation of numerous LED lighting and advanced controls retrofits through a variety of buildings on the Vertex campus, including mechanical rooms, labs, the lobby, and other public spaces. Additionally, the existing lighting controls system within the company’s labs was upgraded to include a new scheme that includes occupancy sensors, dramatically reducing energy costs when the area is not in use. As a result, annual electrical consumption at the Vertex headquarters has been reduced by 2,700,000 kWh. <br> <br> <b> TOTAL ANNUAL SAVINGS $435,000 <br> TOTAL INCENTIVE $800,000 <br> TOTAL ANNUAL kWh SAVED 2,700,000 kWh <br> PROJECT PAYBACK 2 years </b>",
+    "description": "Fairbanks Energy has completed a series of energy efficiency initiatives at the corporate headquarters of Vertex Pharmaceuticals Incorporated. The efficiency project involved the engineering and implementation of numerous LED lighting and advanced controls retrofits through a variety of buildings on the Vertex campus, including mechanical rooms, labs, the lobby, and other public spaces. Additionally, the existing lighting controls system within the company’s labs was upgraded to include a new scheme that includes occupancy sensors, dramatically reducing energy costs when the area is not in use. As a result, annual electrical consumption at the Vertex headquarters has been reduced by 2,700,000 kWh. <br> <br> <b> TOTAL ANNUAL SAVINGS: $435,000 <br> TOTAL INCENTIVE: $800,000 <br> TOTAL ANNUAL kWh SAVED: 2,700,000 kWh <br> PROJECT PAYBACK: 2 years </b>",
     "picture": "img/2.jpg",
     "camera": {
         center: [-71.0483887, 42.3534302],
@@ -47,17 +57,6 @@ var locations = [{
         zoom: 15.5
     }
 }, {
-    "id": "4",
-    "title": "Edward-Elmhurst Health",
-    "subtitle": "LED Lighting Upgrade",
-    "description": "Fairbanks Energy Services completed a series of energy efficiency upgrades at Edward-Elmhurst Health, resulting in total annual savings of $1.9 million. A turn-key solution, the project replaced or retrofitted more than 38,000 inefficient halogen, incandescent, fluorescent and metal halide fixtures with modern LEDs. A variety of indoor spaces were improved through the initiative, including: common areas, nurse stations, cafeterias, offices, mechanical rooms, conference rooms, fitness centers and parking areas. <br> <br> <b> TOTAL ANNUAL SAVINGS: $2,000,000 <br> TOTAL INCENTIVE: $343,000 <br> TOTAL ANNUAL kWh SAVINGS: 15,000,000 kWh <br> PROJECT PAYBACK: 2.6 Years </b>",
-    "picture": "img/4.jpg",
-    "camera": {
-        center: [-88.1216413, 41.8030472],
-        bearing: 20,
-        zoom: 15.37,
-    }
-}, {
     "id": "5",
     "title": "Massachusetts General Hospital",
     "subtitle": "Comprehensive Upgrades", 
@@ -72,7 +71,7 @@ var locations = [{
     "id": "6",
     "title": "zColo Atlanta Data Center",
     "subtitle": "Raised Floor Airflow Management", 
-    "description": "Fairbanks Energy installed a number of airflow improvements in the 50,000 square foot raised floor side of the data center. In addition, the BMS was modified to control the airflow to match the heatload of the room, with units in “hot standby” waiting to turn back on in the event of a thermal emergency. <br> <br> <b>Savings: 1,367,500 kWh</b> <br> <b>benefits: 7 CRACS shut off, reclaimimg 40% of the HVAC energy, allowing for 150 tons of reclaimed mechanical CRAC capacity. </b>",
+    "description": "Fairbanks Energy installed a number of airflow improvements in the 50,000 square foot raised floor side of the data center. In addition, the BMS was modified to control the airflow to match the heatload of the room, with units in “hot standby” waiting to turn back on in the event of a thermal emergency. <br> <br>  <p style='color: #337d49;'>Benefits: 7 CRACS shut off, reclaimimg 40% of the HVAC energy, allowing for 150 tons of reclaimed mechanical CRAC capacity.</p> <br> <b>SAVINGS: 1,367,500 kWh</b>",
     "picture": "img/6.jpg",
     "camera": {
         center: [-84.4278256, 33.7338976],
@@ -80,22 +79,22 @@ var locations = [{
         zoom: 16.64
     }
 }, {
+    "id": "4",
+    "title": "Edward-Elmhurst Health",
+    "subtitle": "LED Lighting Upgrade",
+    "description": "Fairbanks Energy Services completed a series of energy efficiency upgrades at Edward-Elmhurst Health, resulting in total annual savings of $1.9 million. A turn-key solution, the project replaced or retrofitted more than 38,000 inefficient halogen, incandescent, fluorescent and metal halide fixtures with modern LEDs. A variety of indoor spaces were improved through the initiative, including: common areas, nurse stations, cafeterias, offices, mechanical rooms, conference rooms, fitness centers and parking areas. <br> <br> <b> TOTAL ANNUAL SAVINGS: $2,000,000 <br> TOTAL INCENTIVE: $343,000 <br> TOTAL ANNUAL kWh SAVINGS: 15,000,000 kWh <br> PROJECT PAYBACK: 2.6 Years </b>",
+    "picture": "img/4.jpg",
+    "camera": {
+        center: [-88.1216413, 41.8030472],
+        bearing: 20,
+        zoom: 15.37,
+    }
+}, {
     "id": "11",
     "title": "zColo Atlanta Data Center",
     "subtitle": "Slab Floor Airflow Management", 
-    "description": "Fairbanks Energy installed a duct system to combine CRAC units into 7 zones, installed cold aisle doors at the ends of aisles, and blanking panels. FES modified the BMS to turn off at least 9 units, which remain in “hot standby” waiting to turn back on in the event of a thermal emergency. <br> <br> <b>Savings: 1,880,300 kWh</b> <br> <b> Benefits: 9 CRACs are shut off (in controlled stand-by) reclaiming 51.6% of HVAC energy, allowing for 230 Tons of reclaimed mechanical CRAC capacity. Ducting allows for minimum N+1 redundancy in each of the 7 zones.</b>",
-    "picture": "img/6.jpg", //Change this picture for the next one
-    "camera": {
-        center: [-84.4278256, 33.7338976],
-        bearing: 28.4,
-        zoom: 16.64
-    }
-}, {
-    "id": "12",
-    "title": "zColo Atlanta Data Center",
-    "subtitle": "Mechanical Systems Upgrade", 
-    "description": "Fairbanks Energy modified zColo’s Atlanta data center by converting a one loop system to a two loop system. The Cooling Tower Water Loop consisted of 4 cooling towers, and 5 cooling tower pumps. The existing cooling tower fans and CTW pumps were controlled by variable frequency drives (VFDs) and new CW pumps are now controlled by VFDs. This results in efficient operation with two or more pumps in each loop and two or more cooling towers in operation as the pump and fan speeds reduce in speed to maintain system pressure or temperature set points. <br> <b>Savings: 742,000 kWh</b>",
-    "picture": "img/6.jpg", //Change this picture for the next one
+    "description": "Fairbanks Energy installed a duct system to combine CRAC units into 7 zones, installed cold aisle doors at the ends of aisles, and blanking panels. FES modified the BMS to turn off at least 9 units, which remain in “hot standby” waiting to turn back on in the event of a thermal emergency. <br> <br> <p style='color: #337d49;'>Benefits: 9 CRACs are shut off (in controlled stand-by) reclaiming 51.6% of HVAC energy, allowing for 230 Tons of reclaimed mechanical CRAC capacity. Ducting allows for minimum N+1 redundancy in each of the 7 zones.</p> <br> <b>SAVINGS: 1,880,300 kWh</b>",
+    "picture": "img/6-1.jpg",
     "camera": {
         center: [-84.4278256, 33.7338976],
         bearing: 28.4,
@@ -105,10 +104,21 @@ var locations = [{
     "id": "7",
     "title": "Hotel 140",
     "subtitle": "Steam System & LED Lighting Upgrades", 
-    "description": "Fairbanks Energy completed a LED lighting and lighting controls upgrade throughout Hotel 140’s basement, elevator lobbies, hallways and kitchenette/lounge, saving the customer $19,000 annually. <br> <br> <b> LED LIGHTING UPGRADE: <br> TOTAL ANNUAL SAVINGS$19,000 <br> TOTAL INCENTIVE $20,000 <br> TOTAL ANNUAL kWh SAVED: 117,000 kWh <br> PROJECT PAYBACK 3 YEARS <br> <br> STEAM SYSTEM UPGRADE: <br> TOTAL PROJECT COST $50,000 <br> TOTAL ANNUAL SAVINGS $20,000 <br> PROJECT PAYBACK 2.5 YEARS </b>",
+    "description": "Fairbanks Energy completed a LED lighting and lighting controls upgrade throughout Hotel 140’s basement, elevator lobbies, hallways and kitchenette/lounge, saving the customer $19,000 annually. <br> <br> <b> LED LIGHTING UPGRADE: <br> TOTAL ANNUAL SAVINGS: $19,000 <br> TOTAL INCENTIVE $20,000 <br> TOTAL ANNUAL kWh SAVED: 117,000 kWh <br> PROJECT PAYBACK 3 YEARS <br><br> STEAM SYSTEM UPGRADE: <br> TOTAL PROJECT COST $50,000 <br> TOTAL ANNUAL SAVINGS $20,000 <br> PROJECT PAYBACK 2.5 YEARS </b>",
     "picture": "img/7.jpg",
     "camera": {
         center: [-71.0766487, 42.3486305],
+        bearing: 28.4,
+        zoom: 16.64
+    }
+}, {
+    "id": "12",
+    "title": "zColo Atlanta Data Center",
+    "subtitle": "Mechanical Systems Upgrade", 
+    "description": "Fairbanks Energy modified zColo’s Atlanta data center by converting a one loop system to a two loop system. The Cooling Tower Water Loop consisted of 4 cooling towers, and 5 cooling tower pumps. The existing cooling tower fans and CTW pumps were controlled by variable frequency drives (VFDs) and new CW pumps are now controlled by VFDs. This results in efficient operation with two or more pumps in each loop and two or more cooling towers in operation as the pump and fan speeds reduce in speed to maintain system pressure or temperature set points. <br> <br> <b>SAVINGS: 742,000 kWh</b>",
+    "picture": "img/6-2.jpg", //Change this picture for the next one
+    "camera": {
+        center: [-84.4278256, 33.7338976],
         bearing: 28.4,
         zoom: 16.64
     }
@@ -138,16 +148,17 @@ var locations = [{
     "id": "10",
     "title": "zColo Hillcrest Data Center",
     "subtitle": "Data Center Airflow Management Project", 
-    "description": "At zColo’s 14,000 square feet Dallas data center, Fairbanks Energy implemented an airflow management upgrade providing adequate cooling to the racks of the equipment while allowing for units to be turned off or in hot stand-by. The project saves zColo $68,000 each year in electricity costs. <br> <br> <b> TOTAL ANNUAL SAVINGS $68,000 <br> TOTAL ANNUAL kWh SAVED 970,000 kWh <br> PROJECT PAYBACK 1.4 years </b>",
-    "picture": "img/10.jpg",
+    "description": "At zColo’s 14,000 square feet Dallas data center, Fairbanks Energy implemented an airflow management upgrade providing adequate cooling to the racks of the equipment while allowing for units to be turned off or in hot stand-by. The project saves zColo $68,000 each year in electricity costs. <br> <br> <b> TOTAL ANNUAL SAVINGS: $68,000 <br> TOTAL ANNUAL kWh SAVED: 970,000 kWh <br> PROJECT PAYBACK: 1.4 years </b>",
+    "picture": "img/10.jpeg",
     "camera": {
         center: [-96.7935828, 32.9230277],
         bearing: 28.4,
         zoom: 16.64
     }
 }, {
-    "title": "Fairbanks Energy Services Projects",
-    "description": "We are an energy conservation firm dedicated to providing cost-effective retrofit solutions.",
+    "title": "",
+    "description": "",
+    "picture": "img/logo.png",
     "camera": {
         center: [-96.1476785, 40.2744218],
         zoom: 3,
@@ -181,7 +192,6 @@ function playback(index) {
         }, 10000); // After callback, show the location for 3 seconds.
     });
 }
-
 // Display the last title/description first
 title.textContent = locations[locations.length - 1].title;
 subtitle.textContent = locations[locations.length - 1].subtitle;
