@@ -17,7 +17,7 @@ var locations = [{
     "id": "2",
     "title": "zColo 60 Hudson Data Center",
     "subtitle": "LED Lighting Upgrade",
-    "description": "At zColo’s landmark four floor data center at 60 Hudson, Fairbanks Energy completed a retrofit of their existing lighting with new efficient LED lighting with advanced controls. A majority of the fixtures now have wireless networking capabilities to allow for granular high and low trim light levels, occupancy and daylight harvesting capabilities. In addition, the ability to regroup and zone easily through a handheld device allows the operations team to quickly and easily manage the lighting system as customers move in and change over time. <br> <br> <b>TOTAL ANNUAL SAVINGS: $40,000 <br> TOTAL INCENTIVE: $28,000 <br> TOTAL ANNUAL kWh SAVED: 216,800 kWh <br> PROJECT PAYBACK: > 2 years </b>",
+    "description": "At zColo’s landmark four floor data center at 60 Hudson, Fairbanks Energy completed a retrofit of their existing lighting with new efficient LED lighting with advanced controls. A majority of the fixtures now have wireless networking capabilities to allow for granular high and low trim light levels, occupancy and daylight harvesting capabilities. <br> <br> <br> <br> <b>TOTAL ANNUAL SAVINGS: $40,000 <br> TOTAL INCENTIVE: $28,000 <br> TOTAL ANNUAL kWh SAVED: 216,800 kWh <br> PROJECT PAYBACK: > 2 years </b>",
     "picture": "img/zcolo1.jpg",
     "camera": {
         center: [-74.0104881, 40.7177228],
@@ -71,9 +71,31 @@ var locations = [{
 }, {
     "id": "6",
     "title": "zColo Atlanta Data Center",
-    "subtitle": "Mechanical & Data Center Upgrades", 
-    "description": "Fairbanks Energy’s team of engineers were called in by an International multi-tenant colocation company to help them achieve their goal of being Tier 3+ Compliant. <br> <b> Step 1: Instrumentation </b> <br> FES installed a BMS System to integrate all power and cooling systems. It included all DCIM capabilities such as temperature sensors in cold aisles. <br> <b> Step 2: Mechanical </b> <br> FES Installed heat exchangers, automated valves and new pumps. <br> Results: Automatic failover control, Automatic loop optimization via pressure control, Reclaimed 1200 Tons of Mechanical Capacity. <br> <b> Final Step: Dynamic Airflow Management </b> <br> - Installation of automated two way valves on CRACs - Airflow best practices inside the racks, in the floor - Slab floor overhead air distribution - BMS with temperature sensors monitoring cold aisle, turning on backup units as load in data center changes. <br> <b> 4,400,000 kWh Savings <br> PUE of less than 1.5 <br> Reclaimed 55% of the stranded mechanical capacity of the site back <br> The site now has ability to scale to over 200 watts per square foot and be N+1 compliant Dynamic, self-healing systems in place for future growth",
+    "subtitle": "Raised Floor Airflow Management", 
+    "description": "Fairbanks Energy installed a number of airflow improvements in the 50,000 square foot raised floor side of the data center. In addition, the BMS was modified to control the airflow to match the heatload of the room, with units in “hot standby” waiting to turn back on in the event of a thermal emergency. <br> <br> <b>Savings: 1,367,500 kWh</b> <br> <b>benefits: 7 CRACS shut off, reclaimimg 40% of the HVAC energy, allowing for 150 tons of reclaimed mechanical CRAC capacity. </b>",
     "picture": "img/6.jpg",
+    "camera": {
+        center: [-84.4278256, 33.7338976],
+        bearing: 28.4,
+        zoom: 16.64
+    }
+}, {
+    "id": "11",
+    "title": "zColo Atlanta Data Center",
+    "subtitle": "Slab Floor Airflow Management", 
+    "description": "Fairbanks Energy installed a duct system to combine CRAC units into 7 zones, installed cold aisle doors at the ends of aisles, and blanking panels. FES modified the BMS to turn off at least 9 units, which remain in “hot standby” waiting to turn back on in the event of a thermal emergency. <br> <br> <b>Savings: 1,880,300 kWh</b> <br> <b> Benefits: 9 CRACs are shut off (in controlled stand-by) reclaiming 51.6% of HVAC energy, allowing for 230 Tons of reclaimed mechanical CRAC capacity. Ducting allows for minimum N+1 redundancy in each of the 7 zones.</b>",
+    "picture": "img/6.jpg", //Change this picture for the next one
+    "camera": {
+        center: [-84.4278256, 33.7338976],
+        bearing: 28.4,
+        zoom: 16.64
+    }
+}, {
+    "id": "12",
+    "title": "zColo Atlanta Data Center",
+    "subtitle": "Mechanical Systems Upgrade", 
+    "description": "Fairbanks Energy modified zColo’s Atlanta data center by converting a one loop system to a two loop system. The Cooling Tower Water Loop consisted of 4 cooling towers, and 5 cooling tower pumps. The existing cooling tower fans and CTW pumps were controlled by variable frequency drives (VFDs) and new CW pumps are now controlled by VFDs. This results in efficient operation with two or more pumps in each loop and two or more cooling towers in operation as the pump and fan speeds reduce in speed to maintain system pressure or temperature set points. <br> <b>Savings: 742,000 kWh</b>",
+    "picture": "img/6.jpg", //Change this picture for the next one
     "camera": {
         center: [-84.4278256, 33.7338976],
         bearing: 28.4,
@@ -83,7 +105,7 @@ var locations = [{
     "id": "7",
     "title": "Hotel 140",
     "subtitle": "Steam System & LED Lighting Upgrades", 
-    "description": "Fairbanks Energy Services completed a comprehensive LED lighting and lighting controls upgrade at Hotel 140 in Boston, MA. FES installed advanced lighting controls throughout the hotel’s basement, elevator lobbies on all floors, hallways on floors 3 and 4 and in the kitchenette/lounge on floor 7. LED kits with controls were installed in the stairwells of the hotel and fixtures in the bathrooms and hotel lobby. As a result, a total of 304 fixtures were replaced, saving the customer $19,000 annually. Fairbanks Energy Services also completed a steam system upgrade at Hotel 140 consisting of several improvements including valve replacements and a wholesale replacement of all steam traps with more efficient venture nozzle units. The net result was savings of over $20,000 per year, resulting in a less than 2.5 year payback. <br> <br> <b> LED LIGHTING UPGRADE: <br> TOTAL ANNUAL SAVINGS$19,000 <br> TOTAL INCENTIVE $20,000 <br> TOTAL ANNUAL kWh SAVED: 117,000 kWh <br> PROJECT PAYBACK 3 YEARS <br> <br> STEAM SYSTEM UPGRADE: <br> TOTAL PROJECT COST $50,000 <br> TOTAL ANNUAL SAVINGS $20,000 <br> PROJECT PAYBACK 2.5 YEARS </b>",
+    "description": "Fairbanks Energy completed a LED lighting and lighting controls upgrade throughout Hotel 140’s basement, elevator lobbies, hallways and kitchenette/lounge, saving the customer $19,000 annually. <br> <br> <b> LED LIGHTING UPGRADE: <br> TOTAL ANNUAL SAVINGS$19,000 <br> TOTAL INCENTIVE $20,000 <br> TOTAL ANNUAL kWh SAVED: 117,000 kWh <br> PROJECT PAYBACK 3 YEARS <br> <br> STEAM SYSTEM UPGRADE: <br> TOTAL PROJECT COST $50,000 <br> TOTAL ANNUAL SAVINGS $20,000 <br> PROJECT PAYBACK 2.5 YEARS </b>",
     "picture": "img/7.jpg",
     "camera": {
         center: [-71.0766487, 42.3486305],
@@ -94,7 +116,7 @@ var locations = [{
     "id": "8",
     "title": "Trinity Health of New England",
     "subtitle": "LED Lighting & Mechanical Upgrades", 
-    "description": "Trinity Health of New England contracted with Fairbanks Energy Services to develop and implement lighting and mechanical efficiency solutions at three of its hospitals - St Francis Hospital and Mt Sinai Hospital in Hartford CT and Johnson Memorial Medical Center in Stafford Springs CT. The total cost of the efficiency solutions is approximately $6 million with annual electricity savings of over 8 million kWh and gas and oil savings of over 260,000 therms. FES accessed the CT. Energy Efficiency Fund through Eversource and CNG for over $3,250,000 of incentives. <br> <b> Mechanical Upgrades <br> TOTAL ANNUAL SAVINGS: $980,000 <br> TOTAL INCENTIVE: $2,000,000 <br> TOTAL ANNUAL kWh SAVINGS: 5,700,000 kWh <br> <br> LED Lighting Upgrades <br> TOTAL ANNUAL SAVINGS: $1,400,000 <br> TOTAL INCENTIVE: $2,900,000 <br> TOTAL ANNUAL kWh SAVINGS: 8,000,000 kWh <br>  </b>",
+    "description": "Trinity Health of New England contracted with Fairbanks Energy Services to develop and implement lighting and mechanical efficiency solutions at three of its hospitals - St Francis Hospital and Mt Sinai Hospital in Hartford CT and Johnson Memorial Medical Center in Stafford Springs CT. The total cost of the efficiency solutions is approximately $6 million with annual electricity savings of over 8 million kWh and gas and oil savings of over 260,000 therms. FES accessed the CT. Energy Efficiency Fund through Eversource and CNG for over $3,250,000 of incentives. <br>  <br> <b> Mechanical Upgrades <br> TOTAL ANNUAL SAVINGS: $980,000 <br> TOTAL INCENTIVE: $2,000,000 <br> TOTAL ANNUAL kWh SAVINGS: 5,700,000 kWh <br> <br> LED Lighting Upgrades <br> TOTAL ANNUAL SAVINGS: $1,400,000 <br> TOTAL INCENTIVE: $2,900,000 <br> TOTAL ANNUAL kWh SAVINGS: 8,000,000 kWh <br>  </b>",
     "picture": "img/8.jpg",
     "camera": {
         center: [-72.7006005, 41.7749634],
@@ -105,7 +127,7 @@ var locations = [{
     "id": "9",
     "title": "Providence College",
     "subtitle": "LED Lighting Upgrades", 
-    "description": "Fairbanks Energy Services completed an LED lighting and lighting controls upgrade at Providence College Phillips Memorial Library in Providence, Rhode Island. Fairbanks Energy retrofitted a total of 2,956 fixtures to LEDs and LEDs with lighting control throughout the library. The lighting controls system is equipped with a solution that maximizes energy savings by providing automated granular dimming in response to both occupancy and daylight harvesting. As a result, the project improves the overall lighting quality for students and staff, while saving Providence College $179,000 annually. <br> <br> <b> TOTAL ANNUAL SAVINGS $179,000 <br> TOTAL INCENTIVE $477,000 <br> TOTAL ANNUAL kWh SAVED 2.2 million kWh <br> PROJECT PAYBACK 2 years </b>",
+    "description": "Fairbanks Energy completed an LED lighting and lighting controls upgrade at Providence College Phillips Memorial Library.  Fairbanks Energy retrofitted a total of 2,956 fixtures, saving Providence College $179,000 annually. <br> <br> <b> TOTAL ANNUAL SAVINGS $179,000 <br> TOTAL INCENTIVE $477,000 <br> TOTAL ANNUAL kWh SAVED 2.2 million kWh <br> PROJECT PAYBACK 2 years </b>",
     "picture": "img/9.jpg",
     "camera": {
         center: [-71.4401479, 41.8440829],
@@ -115,8 +137,8 @@ var locations = [{
 }, {
     "id": "10",
     "title": "zColo Hillcrest Data Center",
-    "subtitle": "LED Lighting Upgrades", 
-    "description": "Fairbanks Energy Services completed an LED lighting and lighting controls upgrade at Providence College Phillips Memorial Library in Providence, Rhode Island. Fairbanks Energy retrofitted a total of 2,956 fixtures to LEDs and LEDs with lighting control throughout the library. The lighting controls system is equipped with a solution that maximizes energy savings by providing automated granular dimming in response to both occupancy and daylight harvesting. As a result, the project improves the overall lighting quality for students and staff, while saving Providence College $179,000 annually. <br> <br> <b> TOTAL ANNUAL SAVINGS $179,000 <br> TOTAL INCENTIVE $477,000 <br> TOTAL ANNUAL kWh SAVED 2.2 million kWh <br> PROJECT PAYBACK 2 years </b>",
+    "subtitle": "Data Center Airflow Management Project", 
+    "description": "At zColo’s 14,000 square feet Dallas data center, Fairbanks Energy implemented an airflow management upgrade providing adequate cooling to the racks of the equipment while allowing for units to be turned off or in hot stand-by. The project saves zColo $68,000 each year in electricity costs. <br> <br> <b> TOTAL ANNUAL SAVINGS $68,000 <br> TOTAL ANNUAL kWh SAVED 970,000 kWh <br> PROJECT PAYBACK 1.4 years </b>",
     "picture": "img/10.jpg",
     "camera": {
         center: [-96.7935828, 32.9230277],
