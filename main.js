@@ -3,7 +3,7 @@ var map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/sarboleda22/cjfe931z18sn02ssyjlq4b2d4',
     center: [-96.1476785, 40.2744218],
-    maxZoom: 16,
+    maxZoom: 19,
     minZoom: 1,
     zoom: 3
 });
@@ -42,7 +42,7 @@ var locations = [{
     "picture": "img/2.jpg",
     "camera": {
         center: [-71.0483887, 42.3534302],
-        bearing: -8.9,
+        bearing: -15.9,
         zoom: 17.68
     }
 }, {
