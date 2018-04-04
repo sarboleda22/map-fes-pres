@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Play map locations as a slideshow</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.css' rel='stylesheet' />
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+
+<div id='map'></div>
+
+<div class='map-overlay-container'>
+  <div class='map-overlay'>
+    <h1 style="text-align: center; padding-top: 10px;">PROJECTS ACROSS THE U.S.</h1>
+    <br>
+    <h2 id='location-subtitle'>OVER 100 PROJECTS IN PREVIOUS 12 MONTHS</h2>
+    <img src='img/logo.png'>
+    <p id='location-description' style="font-size: 14px;"></p>
+  </div>
+</div>
+
+<script src="main.js"></script>
+
+</body>
+</html>
