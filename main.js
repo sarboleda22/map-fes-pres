@@ -71,7 +71,7 @@ var locations = [{
     "id": "6",
     "title": "zColo Atlanta Data Center",
     "subtitle": "Raised Floor Airflow Management", 
-    "description": "Fairbanks Energy installed a number of airflow improvements in the 50,000 square foot raised floor side of the data center. In addition, the BMS was modified to control the airflow to match the heatload of the room, with units in “hot standby” waiting to turn back on in the event of a thermal emergency. <br><br> <b>SAVINGS: 1,367,500 kWh</b> <br><br>  <p style='font-size:19px;color:#337d49;'><b>BENEFITS<ul> <li>7 CRACS Shut Off:<ul><li>40% of the HVAC Energy Reclaimed</li><li>150 tons of Reclaimed Mechanical CRAC Capacity Allowed</li></ul></li></ul></b></p> ",
+    "description": "Fairbanks Energy installed a number of airflow improvements in the 50,000 square foot raised floor side of the data center. In addition, the BMS was modified to control the airflow to match the heatload of the room, with units in “hot standby” waiting to turn back on in the event of a thermal emergency. <br><br> <b>SAVINGS: 1,367,500 kWh</b> <br><br>  <p style='font-size:19px;color:#337d49;'><b>BENEFITS<ul> <li>7 CRACS Shut Off, Allowing: <ul><li>40% of Reclaimed HVAC Energy</li><li>150 tons of Mechanical CRAC Capacity</li></ul></li></ul></b></p> ",
     "picture": "img/6.jpg",
     "camera": {
         center: [-84.4278256, 33.7338976],
@@ -93,7 +93,7 @@ var locations = [{
     "id": "11",
     "title": "zColo Atlanta Data Center",
     "subtitle": "Slab Floor Airflow Management", 
-    "description": "Fairbanks Energy installed a duct system to combine CRAC units into 7 zones, installed cold aisle doors at the ends of aisles, and blanking panels. FES modified the BMS to turn off at least 9 units, which remain in “hot standby” waiting to turn back on in the event of a thermal emergency. <br> <br> <b>SAVINGS: 1,880,300 kWh</b> <br> <br> <p style='font-size:19px;color:#337d49;'><b>BENEFITS <ul> <li> 9 CRACs were shut off (in controlled stand-by):</li> <ul><li>51.6% of HVAC Energy Reclaimed</li> <li>230 Tons of reclaimed Mechanical CRAC Capacity </li> <li>Minimum N+1 redundancy in each of the 7 zones.</li></ul></ul></b></p>",
+    "description": "Fairbanks Energy installed a duct system to combine CRAC units into 7 zones, installed cold aisle doors at the ends of aisles, and blanking panels. FES modified the BMS to turn off at least 9 units, which remain in “hot standby” waiting to turn back on in the event of a thermal emergency. <br> <br> <b>SAVINGS: 1,880,300 kWh</b> <br> <br> <p style='font-size:19px;color:#337d49;'><b>BENEFITS <ul> <li> 9 CRACs Shut Off, Allowing: </li> <ul><li>51.6% of HVAC Energy Reclaimed</li> <li>230 Tons of reclaimed Mechanical CRAC Capacity </li> <li>Minimum N+1 redundancy in each of the 7 zones.</li></ul></ul></b></p>",
     "picture": "img/6-1.jpg",
     "camera": {
         center: [-84.4278256, 33.7338976],
@@ -104,7 +104,7 @@ var locations = [{
     "id": "7",
     "title": "Hotel 140",
     "subtitle": "Steam System Upgrades", 
-    "description": "Fairbanks Energy Services completed a steam system upgrade at Hotel 140 consisting of several improvements including valve replacements and a wholesale replacement of all steam traps with more efficient venture nozzle units. The net result was savings of over $20,000 per year, resulting in a less than 2.5 year payback. <br> <br> <b> TOTAL PROJECT COST $50,000 <br> PROJECT PAYBACK 2.5 YEARS</b><br><br> <p style='font-size:19px;color:#337d49;><b>TOTAL ANNUAL SAVINGS $20,000</b></p>",
+    "description": "Fairbanks Energy Services completed a steam system upgrade at Hotel 140 consisting of several improvements including valve replacements and a wholesale replacement of all steam traps with more efficient venture nozzle units. The net result was savings of over $20,000 per year, resulting in a less than 2.5 year payback. <br> <br> <b> TOTAL PROJECT COST: $50,000 <br> PROJECT PAYBACK: 2.5 YEARS</b> <br><br> <p style='font-size:19px;color:#337d49;><b>TOTAL ANNUAL SAVINGS $20,000</b></p>",
     "picture": "img/14.jpg",
     "camera": {
         center: [-71.0766487, 42.3486305],
@@ -137,7 +137,7 @@ var locations = [{
     "id": "8",
     "title": "Trinity Health of New England",
     "subtitle": "Mechanical Upgrades", 
-    "description": "Trinity Health of New England contracted with Fairbanks Energy Services to develop and implement different mechanical efficiency solutions at three of its hospitals - St Francis Hospital and Mt Sinai Hospital in Hartford CT and Johnson Memorial Medical Center in Stafford Springs CT. The total cost of the efficiency solutions is approximately $6 million with annual gas and oil savings of over 260,000 therms. FES accessed the Connecticut Energy Efficiency Fund through Eversource and CNG for over $3,250,000 of incentives. <br>  <br> <b>TOTAL INCENTIVE: $2,000,000 <br> TOTAL ANNUAL kWh SAVINGS: 5,700,000 kWh </b><br><p style='font-size:19px;color:#337d49;'><b>TOTAL ANNUAL SAVINGS: $980,000</b></p>",
+    "description": "Trinity Health of New England contracted with Fairbanks Energy Services to develop and implement different mechanical efficiency solutions at three of its hospitals - St Francis Hospital and Mt Sinai Hospital in Hartford CT and Johnson Memorial Medical Center in Stafford Springs CT. The total cost of the efficiency solutions is approximately $6 million with annual gas and oil savings of over 260,000 therms. FES accessed the Connecticut Energy Efficiency Fund through Eversource and CNG for over $3,250,000 of incentives. <br>  <br> <b>TOTAL INCENTIVE: $2,000,000 <br> TOTAL ANNUAL kWh SAVINGS: 5,700,000 kWh </b><br><br><p style='font-size:19px;color:#337d49;'><b>TOTAL ANNUAL SAVINGS: $980,000</b></p>",
     "picture": "img/8.jpg",
     "camera": {
         center: [-72.7006005, 41.7749634],
@@ -159,7 +159,7 @@ var locations = [{
     "id": "13",
     "title": "Trinity Health of New England",
     "subtitle": "LED Lighting Upgrades", 
-    "description": "Fairbanks Energy Services also completed lighting and lighting controls efficiency solutions at three of Trinity Health of NEw England hospitals, with annual electricity savings of over 8 million kWh.<br>  <br> <b> LED Lighting Upgrades <br> TOTAL INCENTIVE: $2,900,000 <br> TOTAL ANNUAL kWh SAVINGS: 8,000,000 kWh</b><br><p style='font-size:19px;color:#337d49'><b>TOTAL ANNUAL SAVINGS: $1,400,000</b></p>",
+    "description": "Fairbanks Energy Services also completed lighting and lighting controls efficiency solutions at three of Trinity Health of NEw England hospitals, with annual electricity savings of over 8 million kWh.<br>  <br> <b> LED Lighting Upgrades <br> TOTAL INCENTIVE: $2,900,000 <br> TOTAL ANNUAL kWh SAVINGS: 8,000,000 kWh</b><br><br><p style='font-size:19px;color:#337d49'><b>TOTAL ANNUAL SAVINGS: $1,400,000</b></p>",
     "picture": "img/13.jpg",
     "camera": {
         center: [-72.7006005, 41.7749634],
