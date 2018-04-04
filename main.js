@@ -93,7 +93,7 @@ var locations = [{
     "id": "11",
     "title": "zColo Atlanta Data Center",
     "subtitle": "Slab Floor Airflow Management", 
-    "description": "Fairbanks Energy installed a duct system to combine CRAC units into 7 zones, installed cold aisle doors at the ends of aisles, and blanking panels. FES modified the BMS to turn off at least 9 units, which remain in “hot standby” waiting to turn back on in the event of a thermal emergency. <br> <br> <b>SAVINGS: 1,880,300 kWh</b> <br> <br> <p style='font-size:19px;color:#337d49;'><b>BENEFITS <ul> <li> 9 CRACs Shut Off, Allowing: </li> <ul><li>51.6% of HVAC Energy Reclaimed</li> <li>230 Tons of reclaimed Mechanical CRAC Capacity </li> <li>Minimum N+1 redundancy in each of the 7 zones.</li></ul></ul></b></p>",
+    "description": "Fairbanks Energy installed a duct system to combine CRAC units into 7 zones, installed cold aisle doors at the ends of aisles, and blanking panels. FES modified the BMS to turn off at least 9 units, which remain in “hot standby” waiting to turn back on in the event of a thermal emergency. <br> <br> <b>SAVINGS: 1,880,300 kWh</b> <br> <br> <p style='font-size:19px;color:#337d49;'><b>BENEFITS: <ul> <li> 9 CRACs Shut Off, Allowing: </li> <ul><li>51.6% of HVAC Energy Reclaimed</li> <li>230 Tons of reclaimed Mechanical CRAC Capacity </li> <li>Minimum N+1 redundancy in each of the 7 zones.</li></ul></ul></b></p>",
     "picture": "img/6-1.jpg",
     "camera": {
         center: [-84.4278256, 33.7338976],
