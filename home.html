@@ -1,29 +1,37 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8' />
+<html><head>
+    <meta charset="utf-8">
     <title>Play map locations as a slideshow</title>
-    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.js'></script>
-    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.css' rel='stylesheet' />
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.js"></script>
+    <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
 
-<div id='map'></div>
+<div id="map" class="mapboxgl-map"><div class="mapboxgl-missing-css">Missing Mapbox GL JS CSS</div><div class="mapboxgl-canvas-container mapboxgl-interactive mapboxgl-touch-drag-pan mapboxgl-touch-zoom-rotate"><canvas class="mapboxgl-canvas" tabindex="0" aria-label="Map" width="1921" height="1081" style="position: absolute; width: 1478px; height: 832px;"></canvas></div><div class="mapboxgl-control-container"><div class="mapboxgl-ctrl-top-left"></div><div class="mapboxgl-ctrl-top-right"></div><div class="mapboxgl-ctrl-bottom-left"><div class="mapboxgl-ctrl" style="display: block;"><a class="mapboxgl-ctrl-logo" target="_blank" href="https://www.mapbox.com/" aria-label="Mapbox logo"></a></div></div><div class="mapboxgl-ctrl-bottom-right"><div class="mapboxgl-ctrl mapboxgl-ctrl-attrib"><a href="https://www.mapbox.com/about/maps/" target="_blank">© Mapbox</a> <a href="http://www.openstreetmap.org/about/" target="_blank">© OpenStreetMap</a> <a class="mapbox-improve-map" href="https://www.mapbox.com/feedback/?owner=sarboleda22&amp;id=cjfe931z18sn02ssyjlq4b2d4&amp;access_token=pk.eyJ1Ijoic2FyYm9sZWRhMjIiLCJhIjoiY2pkdWg3YXBzMWV0eDJ4bnlzeHk1bTA0ZCJ9.jFNUbOyVXti1PiWFL9LKag" target="_blank">Improve this map</a></div></div></div></div>
 
-<div class='map-overlay-container'>
-  <div class='map-overlay'>
-    <h1 style="text-align: center; padding-top: 10px;">PROJECTS ACROSS THE U.S.</h1>
-    <br>
-    <h2 id='location-subtitle'>OVER 100 PROJECTS IN PREVIOUS 12 MONTHS</h2>
-    <img src='img/logo.png'>
-    <p id='location-description' style="font-size: 14px;"></p>
+<div class="map-overlay-container">
+  <div class="map-overlay">
+    <img src="img/logo.png" id="location-picture"><h1 id="location-title" style="text-align: center;font-size: 61px;line-height: 0.9em;margin-top: 2em;color: #333;">PROJECTS ACROSS THE U.S.</h1>
+    <hr style="
+    width:  30%;
+    margin-top: 3em;
+    margin-bottom:  3em;
+    background-color: #398f47;
+    color:  #398f47;
+    background:  #398f47;
+    height:  2px;
+    border-radius: 0px;
+">
+    <h2 id="location-subtitle">OVER 100 PROJECTS IN THE LAST 12 MONTHS</h2>
+    
+    <p id="location-description" style="font-size: 14px;"></p>
   </div>
 </div>
 
 <script src="main.js"></script>
 
-</body>
-</html>
+
+</body></html>
