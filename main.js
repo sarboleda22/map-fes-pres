@@ -71,7 +71,7 @@ var locations = [{
     "id": "6",
     "title": "zColo Atlanta Data Center",
     "subtitle": "Raised Floor Airflow Management", 
-    "description": "Fairbanks Energy installed a number of airflow improvements in the 50,000 square foot raised floor side of the data center. In addition, the BMS was modified to control the airflow to match the heatload of the room, with units in “hot standby” waiting to turn back on in the event of a thermal emergency. <br><br> <b>SAVINGS: 1,367,500 kWh</b> <br><br>  <p style='font-size:19px;color:#337d49;'><b>BENEFITS<ul> <li>7 CRACS Shut Off, Allowing: <ul><li>40% of Reclaimed HVAC Energy</li><li>150 tons of Mechanical CRAC Capacity</li></ul></li></ul></b></p> ",
+    "description": "Fairbanks Energy installed a number of airflow improvements in the 50,000 square foot raised floor side of the data center. In addition, the BMS was modified to control the airflow to match the heatload of the room, with units in “hot standby” waiting to turn back on in the event of a thermal emergency. <br><br><b>BENEFITS <br>7 CRACS Shut Off, Allowing:<br> - 40% of Reclaimed HVAC Energy <br> - 150 tons of Mechanical CRAC Capacity</b> <br><br><br> <p style='font-size:18px;color:#337d49;'><b>SAVINGS: 1,367,500 kWh</b></p> ",
     "picture": "img/6.jpg",
     "camera": {
         center: [-84.4278256, 33.7338976],
@@ -82,7 +82,7 @@ var locations = [{
     "id": "4",
     "title": "Edward-Elmhurst Health",
     "subtitle": "LED Lighting Upgrade",
-    "description": "Fairbanks Energy Services completed a series of energy efficiency upgrades at Edward-Elmhurst Health, resulting in total annual savings of $1.9 million. A turn-key solution, the project replaced or retrofitted more than 38,000 inefficient halogen, incandescent, fluorescent and metal halide fixtures with modern LEDs. A variety of indoor spaces were improved through the initiative, including: common areas, nurse stations, cafeterias, offices, mechanical rooms, conference rooms, fitness centers and parking areas. <br> <br> <b> TOTAL INCENTIVE: $343,000 <br> TOTAL ANNUAL kWh SAVINGS: 15,000,000 kWh <br> PROJECT PAYBACK: 2.6 Years </b> <br><br> <p style='font-size:19px;color:#337d49;'><b> TOTAL ANNUAL SAVINGS: $2,000,000</b></p>",
+    "description": "Fairbanks Energy Services completed a series of energy efficiency upgrades at Edward-Elmhurst Health, resulting in total annual savings of $1.9 million. A turn-key solution, the project replaced or retrofitted more than 38,000 inefficient halogen, incandescent, fluorescent and metal halide fixtures with modern LEDs. A variety of indoor spaces were improved through the initiative, including: common areas, nurse stations, cafeterias, offices, mechanical rooms, conference rooms, fitness centers and parking areas. <br> <br> <b> TOTAL INCENTIVE: $343,000 <br> TOTAL ANNUAL kWh SAVINGS: 15,000,000 kWh <br> PROJECT PAYBACK: 2.6 Years </b> <br><br> <p style='font-size:17px;color:#337d49;'><b> TOTAL ANNUAL SAVINGS: $2,000,000</b></p>",
     "picture": "img/4.jpg",
     "camera": {
         center: [-88.1216413, 41.8030472],
@@ -93,7 +93,7 @@ var locations = [{
     "id": "11",
     "title": "zColo Atlanta Data Center",
     "subtitle": "Slab Floor Airflow Management", 
-    "description": "Fairbanks Energy installed a duct system to combine CRAC units into 7 zones, installed cold aisle doors at the ends of aisles, and blanking panels. FES modified the BMS to turn off at least 9 units, which remain in “hot standby” waiting to turn back on in the event of a thermal emergency. <br> <br> <b>SAVINGS: 1,880,300 kWh</b> <br> <br> <p style='font-size:19px;color:#337d49;'><b>BENEFITS: <ul> <li> 9 CRACs Shut Off, Allowing: </li> <ul><li>51.6% of HVAC Energy Reclaimed</li> <li>230 Tons of reclaimed Mechanical CRAC Capacity </li> <li>Minimum N+1 redundancy in each of the 7 zones.</li></ul></ul></b></p>",
+    "description": "Fairbanks Energy installed a duct system to combine CRAC units into 7 zones, installed cold aisle doors at the ends of aisles, and blanking panels. FES modified the BMS to turn off at least 9 units, which remain in “hot standby” waiting to turn back on in the event of a thermal emergency. <br> <br> <br> <b>BENEFITS: <br> 9 CRACs Shut Off, Allowing: <br> - 51.6% of HVAC Energy Reclaimed <br> - 230 Tons of reclaimed Mechanical CRAC Capacity <br> - Minimum N+1 redundancy in each of the 7 zones.</b> <br><br><br><p style='font-size:19px;color:#337d49;'><b>SAVINGS: 1,880,300 kWh</b></p>",
     "picture": "img/6-1.jpg",
     "camera": {
         center: [-84.4278256, 33.7338976],
@@ -104,7 +104,7 @@ var locations = [{
     "id": "7",
     "title": "Hotel 140",
     "subtitle": "Steam System Upgrades", 
-    "description": "Fairbanks Energy Services completed a steam system upgrade at Hotel 140 consisting of several improvements including valve replacements and a wholesale replacement of all steam traps with more efficient venture nozzle units. The net result was savings of over $20,000 per year, resulting in a less than 2.5 year payback. <br> <br> <b> TOTAL PROJECT COST: $50,000 <br> PROJECT PAYBACK: 2.5 YEARS</b> <br><br> <p style='font-size:19px;color:#337d49;><b>TOTAL ANNUAL SAVINGS $20,000</b></p>",
+    "description": "Fairbanks Energy Services completed a steam system upgrade at Hotel 140 consisting of several improvements including valve replacements and a wholesale replacement of all steam traps with more efficient venture nozzle units. The net result was savings of over $20,000 per year, resulting in a less than 2.5 year payback. <br> <br> <b> TOTAL PROJECT COST: $50,000 <br> PROJECT PAYBACK: 2.5 YEARS</b> <br><br> <p style='font-size:19px;color:#337d49;'><b>TOTAL ANNUAL SAVINGS $20,000</b></p>",
     "picture": "img/14.jpg",
     "camera": {
         center: [-71.0766487, 42.3486305],
@@ -115,7 +115,7 @@ var locations = [{
     "id": "14",
     "title": "Hotel 140",
     "subtitle": "LED Lighting Upgrades", 
-    "description": "Similarly, Fairbanks Energy completed a LED lighting and lighting controls upgrade throughout Hotel 140’s basement, elevator lobbies, hallways and kitchenette/lounge, saving the customer $19,000 annually. <br> <br> <b>TOTAL INCENTIVE $20,000 <br> TOTAL ANNUAL kWh SAVED: 117,000 kWh <br> PROJECT PAYBACK 3 YEARS <br><br></b> <br><br> <p style='font-size:19px;color:#337d49;><b>TOTAL ANNUAL SAVINGS: $19,000</b></p>",
+    "description": "Similarly, Fairbanks Energy completed a LED lighting and lighting controls upgrade throughout Hotel 140’s basement, elevator lobbies, hallways and kitchenette/lounge, saving the customer $19,000 annually. <br> <br> <b>TOTAL INCENTIVE $20,000 <br> TOTAL ANNUAL kWh SAVED: 117,000 kWh <br> PROJECT PAYBACK 3 YEARS <br><br></b> <br><br> <p style='font-size:19px;color:#337d49;'><b>TOTAL ANNUAL SAVINGS: $19,000</b></p>",
     "picture": "img/7.jpg",
     "camera": {
         center: [-71.0766487, 42.3486305],
@@ -211,7 +211,7 @@ function playback(index) {
             // Increment index
             index = (index + 1 === locations.length) ? 0 : index + 1;
             playback(index);
-        }, 500); // After callback, show the location for 3 seconds.
+        }, 15000); // After callback, show the location for 3 seconds.
     });
 }
 // Display the last title/description first

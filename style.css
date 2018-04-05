@@ -4,7 +4,7 @@ body { margin:0; padding:0; }
 
 .map-overlay-container {
     position: absolute;
-    width: 33%;
+    width: 39%;
     top: 0;
     left: 0;
     padding: 10px;
@@ -27,11 +27,13 @@ body { margin:0; padding:0; }
     margin: 0 0 10px;
 }
 .map-overlay p {
-    margin: 0 0 10px;
+    margin: 0 0 20px;
+    text-align: justify;
 }
 
 #location-picture {
-    max-width: 265px;
+    max-width: 219px;
     float: right;
     padding: 10px;
+    padding-right: 0px;
 }
