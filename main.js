@@ -18,7 +18,8 @@ var picture = document.getElementById('location-picture');
 var locations = [{
     "title": "",
     "description": "",
-    "picture": "img/logo.png",
+    "picture": "",
+    "logo": "",
     "camera": {
         center: [-96.1476785, 40.2744218],
         zoom: 4.15,
@@ -127,7 +128,7 @@ var locations = [{
     "subtitle": "LED Lighting Upgrades", 
     "description": "Similarly, Fairbanks Energy completed a LED lighting and lighting controls upgrade throughout Hotel 140’s basement, elevator lobbies, hallways and kitchenette/lounge, saving the customer $19,000 annually. <br> <br> <b>TOTAL INCENTIVE $20,000 <br><br> TOTAL ANNUAL kWh SAVINGS: 117,000 kWh <br><br> PROJECT PAYBACK 3 YEARS<br><br><p style='font-size:19px;color:#337d49;'><b>TOTAL ANNUAL SAVINGS: $19,000</b></p>",
     "picture": "img/7.jpg",
-    "logo": "hotel140.jpg",
+    "logo": "img/logos/hotel140.jpg",
     "camera": {
         center: [-71.0766487, 42.3486305],
         bearing: 28.4,
