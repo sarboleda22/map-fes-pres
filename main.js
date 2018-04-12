@@ -199,7 +199,7 @@ var locations = [{
     "title": "Trinity Health of New England",
     "address": "114 Woodland St, Hartford, CT 06105",
     "subtitle": "LED Lighting Upgrades", 
-    "description": "Fairbanks Energy Services also completed lighting and lighting controls efficiency solutions at three of Trinity Health of NEw England hospitals, with annual electricity savings of over 8 million kWh.<br><br> <b> TOTAL INCENTIVE: $2,900,000 <br><br> TOTAL ANNUAL kWh SAVINGS: 8,000,000 kWh</b><br><br><p style='font-size:19px;color:#337d49'><b>TOTAL ANNUAL SAVINGS: $1,400,000</b></p>",
+    "description": "Fairbanks Energy Services also completed lighting and lighting controls efficiency solutions at three of Trinity Health of New England hospitals, with annual electricity savings of over 8 million kWh.<br><br> <b> TOTAL INCENTIVE: $2,900,000 <br><br> TOTAL ANNUAL kWh SAVINGS: 8,000,000 kWh</b><br><br><p style='font-size:19px;color:#337d49'><b>TOTAL ANNUAL SAVINGS: $1,400,000</b></p>",
     "picture": "img/13.jpg",
     "logo": "img/logos/trinity.png",
     "camera": {
