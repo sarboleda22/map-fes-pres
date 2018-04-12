@@ -55,6 +55,20 @@ var locations = [{
         speed: 0.38,
     }
 }, {
+    "id": "15",
+    "title": "111 8th Avenue Multi-Tenant Colocation Facility",
+    "address": "111 8th Ave, New York, NY 10011",
+    "subtitle": "Mechanical Systems Upgrade",
+    "description": "Inside 111 8th Avenue’s landmark multitenant colocation facilityFairbanks Energy has worked with multiple clients on a variety of projects including integration of power equipment like transfer switches, branch circuit monitoring kits, and CRAC/CRAH units, monitoring and control of pumps and condensers/dry-cooler equipment, and airflow best practices in server rows. The combination of these different systems in an intelligent Building Automation System (BMS) benefits clients by enabling the display of real-time Power Usage Effectiveness metrics and granular monitoring and control over HVAC equipment based upon sensed temperature and humidity. <br> <br> <b>TOTAL INCENTIVE: $248,000 <br><br> TOTAL ANNUAL kWh SAVINGS: 2,000,000 kWh <br><br> PROJECT PAYBACK: 1.45 YEARS</b> <br><br> <p style='font-size:19px;color:#337d49;'><b>TOTAL ANNUAL SAVINGS: $167,000</b></p>",
+    "picture": "img/3.jpg",
+    "logo": "",
+    "camera": {
+        center: [-74.005576, 40.7414688],
+        bearing: 25.3,
+        zoom: 15.5,
+        speed: 0.38,
+    }
+}, {
     "id": "1",
     "title": "111 8th Avenue Multi-Tenant Colocation Facility",
     "address": "111 8th Ave, New York, NY 10011",
