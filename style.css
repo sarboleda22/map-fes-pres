@@ -2,17 +2,23 @@ body { margin:0; padding:0; }
 
 b {
     font-size:17px;
-    color:#337d49;
+    color:#1da1f2;
 }
 
 #map { position:absolute; top:0; bottom:0; width:100%; }
 
 .map-overlay-container {
-    position: absolute;
+    position: relative;
     width: 43%;
-    top: 0;
     left: 0;
-    padding: 10px;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.map-overlay-container-2 {
+    position: relative;
+    width: 100%;
+    top: 0;
     z-index: 1;
     overflow: hidden;
 }
