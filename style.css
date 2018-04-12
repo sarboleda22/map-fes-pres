@@ -1,7 +1,7 @@
 body { margin:0; padding:0; }
 
 b {
-    font-size:19px;
+    font-size:17px;
     color:#337d49;
 }
 
@@ -9,7 +9,7 @@ b {
 
 .map-overlay-container {
     position: absolute;
-    width: 39%;
+    width: 43%;
     top: 0;
     left: 0;
     padding: 10px;
