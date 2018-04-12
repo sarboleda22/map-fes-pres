@@ -44,7 +44,7 @@ var locations = [{
     "id": "3",
     "title": "Vertex Pharmaceuticals",
     "address": "50 Northern Ave, Boston, MA 02210",
-    "subtitle": "LED Lighting Upgrade",
+    "subtitle": "LED Lighting and Lighting Controls Upgrade",
     "description": "Fairbanks Energy has completed a series of energy efficiency initiatives at the corporate headquarters of Vertex Pharmaceuticals Incorporated. The efficiency project involved the engineering and implementation of numerous LED lighting and advanced controls retrofits through a variety of buildings on the Vertex campus, including mechanical rooms, labs, the lobby, and other public spaces.<br> <br> <b> TOTAL INCENTIVE: $800,000 <br><br> TOTAL ANNUAL kWh SAVINGS: 2,700,000 kWh <br><br> PROJECT PAYBACK: 2 years </b> <br> <br> <p style='font-size:19px;color:#337d49;'> <b> TOTAL ANNUAL SAVINGS: $435,000 </b> </p>",
     "picture": "img/2.jpg",
     "logo": "img/logos/vertex.png",
