@@ -97,20 +97,6 @@ var locations = [{
         speed: 0.38,
     }
 }, {
-    "id": "6",
-    "title": "zColo Atlanta Data Center",
-    "address": "1100 White Street, Atlanta, GA",
-    "subtitle": "Raised Floor Airflow Management", 
-    "description": "Fairbanks Energy installed a number of airflow improvements in the 50,000 square foot raised floor side of the data center. In addition, the BMS was modified to control the airflow to match the heatload of the room, with units in “hot standby” waiting to turn back on in the event of a thermal emergency. <br><br><b>BENEFITS <br>7 CRACS Shut Off, Allowing:<br> - 40% of Reclaimed HVAC Energy <br> - 150 tons of Mechanical CRAC Capacity</b> <br><br><br> <p style='font-size:18px;color:#337d49;'><b>SAVINGS: 1,367,500 kWh</b></p> ",
-    "picture": "img/6.jpg",
-    "logo": "img/logos/zcolo.png",
-    "camera": {
-        center: [-84.4278256, 33.7338976],
-        bearing: 28.4,
-        zoom: 16.64,
-        speed: 0.38,
-    }
-}, {
     "id": "4",
     "title": "Edward-Elmhurst Health",
     "address": "1804 N Naper Blvd, Naperville, IL 60563",
@@ -125,6 +111,20 @@ var locations = [{
         speed: 0.38,
     }
 }, {
+    "id": "6",
+    "title": "zColo Atlanta Data Center",
+    "address": "1100 White Street, Atlanta, GA",
+    "subtitle": "Raised Floor Airflow Management", 
+    "description": "Fairbanks Energy installed a number of airflow improvements in the 50,000 square foot raised floor side of the data center. In addition, the BMS was modified to control the airflow to match the heatload of the room, with units in “hot standby” waiting to turn back on in the event of a thermal emergency. <br><br><b>BENEFITS <br>7 CRACS Shut Off, Allowing:<br> - 40% of Reclaimed HVAC Energy <br> - 150 tons of Mechanical CRAC Capacity</b> <br><br><br> <p style='font-size:18px;color:#337d49;'><b>SAVINGS: 1,367,500 kWh</b></p> ",
+    "picture": "img/6.jpg",
+    "logo": "img/logos/zcolo.png",
+    "camera": {
+        center: [-84.4278256, 33.7338976],
+        bearing: 28.4,
+        zoom: 16.64,
+        speed: 0.38,
+    }
+}, {
     "id": "11",
     "title": "zColo Atlanta Data Center",
     "address": "1100 White Street, Atlanta, GA",
@@ -134,34 +134,6 @@ var locations = [{
     "logo": "img/logos/zcolo.png",
     "camera": {
         center: [-84.4278256, 33.7338976],
-        bearing: 28.4,
-        zoom: 16.64,
-        speed: 0.38,
-    }
-}, {
-    "id": "7",
-    "title": "Hotel 140",
-    "address": "140 Clarendon St, Boston, MA 02116",
-    "subtitle": "Steam System Upgrades", 
-    "description": "Fairbanks Energy Services completed a steam system upgrade at Hotel 140 consisting of several improvements including valve replacements and a wholesale replacement of all steam traps with more efficient venture nozzle units. The net result was savings of over $20,000 per year, resulting in a less than 2.5 year payback. <br> <br> <b> TOTAL PROJECT COST: $50,000 <br><br> PROJECT PAYBACK: 2.5 YEARS</b> <br><br> <p style='font-size:19px;color:#337d49;'><b>TOTAL ANNUAL SAVINGS $20,000</b></p>",
-    "picture": "img/14.jpg",
-    "logo": "img/logos/hotel140.jpg",
-    "camera": {
-        center: [-71.0766487, 42.3486305],
-        bearing: 28.4,
-        zoom: 16.64,
-        speed: 0.38,
-    }
-}, {
-    "id": "14",
-    "title": "Hotel 140",
-    "address": "140 Clarendon St, Boston, MA 02116",
-    "subtitle": "LED Lighting Upgrades", 
-    "description": "Similarly, Fairbanks Energy completed a LED lighting and lighting controls upgrade throughout Hotel 140’s basement, elevator lobbies, hallways and kitchenette/lounge, saving the customer $19,000 annually. <br> <br> <b>TOTAL INCENTIVE $20,000 <br><br> TOTAL ANNUAL kWh SAVINGS: 117,000 kWh <br><br> PROJECT PAYBACK 3 YEARS<br><br><p style='font-size:19px;color:#337d49;'><b>TOTAL ANNUAL SAVINGS: $19,000</b></p>",
-    "picture": "img/7.jpg",
-    "logo": "img/logos/hotel140.jpg",
-    "camera": {
-        center: [-71.0766487, 42.3486305],
         bearing: 28.4,
         zoom: 16.64,
         speed: 0.38,
@@ -181,12 +153,54 @@ var locations = [{
         speed: 0.38,
     }
 }, {
+    "id": "14",
+    "title": "Hotel 140",
+    "address": "140 Clarendon St, Boston, MA 02116",
+    "subtitle": "LED Lighting Upgrades", 
+    "description": "Similarly, Fairbanks Energy completed a LED lighting and lighting controls upgrade throughout Hotel 140’s basement, elevator lobbies, hallways and kitchenette/lounge, saving the customer $19,000 annually. <br> <br> <b>TOTAL INCENTIVE $20,000 <br><br> TOTAL ANNUAL kWh SAVINGS: 117,000 kWh <br><br> PROJECT PAYBACK 3 YEARS<br><br><p style='font-size:19px;color:#337d49;'><b>TOTAL ANNUAL SAVINGS: $19,000</b></p>",
+    "picture": "img/7.jpg",
+    "logo": "img/logos/hotel140.jpg",
+    "camera": {
+        center: [-71.0766487, 42.3486305],
+        bearing: 28.4,
+        zoom: 16.64,
+        speed: 0.38,
+    }
+}, {
+    "id": "7",
+    "title": "Hotel 140",
+    "address": "140 Clarendon St, Boston, MA 02116",
+    "subtitle": "Steam System Upgrades", 
+    "description": "Fairbanks Energy Services completed a steam system upgrade at Hotel 140 consisting of several improvements including valve replacements and a wholesale replacement of all steam traps with more efficient venture nozzle units. The net result was savings of over $20,000 per year, resulting in a less than 2.5 year payback. <br> <br> <b> TOTAL PROJECT COST: $50,000 <br><br> PROJECT PAYBACK: 2.5 YEARS</b> <br><br> <p style='font-size:19px;color:#337d49;'><b>TOTAL ANNUAL SAVINGS $20,000</b></p>",
+    "picture": "img/14.jpg",
+    "logo": "img/logos/hotel140.jpg",
+    "camera": {
+        center: [-71.0766487, 42.3486305],
+        bearing: 28.4,
+        zoom: 16.64,
+        speed: 0.38,
+    }
+}, {
     "id": "8",
     "title": "Trinity Health of New England",
     "address": "114 Woodland St, Hartford, CT 06105",
     "subtitle": "Mechanical Upgrades", 
     "description": "Trinity Health of New England contracted with Fairbanks Energy Services to develop and implement different mechanical efficiency solutions at three of its hospitals - St Francis Hospital and Mt Sinai Hospital in Hartford CT and Johnson Memorial Medical Center in Stafford Springs CT. The total cost of the efficiency solutions is approximately $6 million with annual gas and oil savings of over 260,000 therms. FES accessed the Connecticut Energy Efficiency Fund through Eversource and CNG for over $3,250,000 of incentives. <br><br> <b>TOTAL INCENTIVE: $2,000,000 <br><br> TOTAL ANNUAL kWh SAVINGS: 5,700,000 kWh </b><br><br><p style='font-size:19px;color:#337d49;'><b>TOTAL ANNUAL SAVINGS: $980,000</b></p>",
     "picture": "img/8.jpg",
+    "logo": "img/logos/trinity.png",
+    "camera": {
+        center: [-72.7006005, 41.7749634],
+        bearing: 28.4,
+        zoom: 16.64,
+        speed: 0.38,
+    }
+}, {
+    "id": "13",
+    "title": "Trinity Health of New England",
+    "address": "114 Woodland St, Hartford, CT 06105",
+    "subtitle": "LED Lighting Upgrades", 
+    "description": "Fairbanks Energy Services also completed lighting and lighting controls efficiency solutions at three of Trinity Health of New England hospitals, with annual electricity savings of over 8 million kWh.<br><br> <b> TOTAL INCENTIVE: $2,900,000 <br><br> TOTAL ANNUAL kWh SAVINGS: 8,000,000 kWh</b><br><br><p style='font-size:19px;color:#337d49'><b>TOTAL ANNUAL SAVINGS: $1,400,000</b></p>",
+    "picture": "img/13.jpg",
     "logo": "img/logos/trinity.png",
     "camera": {
         center: [-72.7006005, 41.7749634],
@@ -204,20 +218,6 @@ var locations = [{
     "logo": "img/logos/providence.jpg",
     "camera": {
         center: [-71.4401479, 41.8440829],
-        bearing: 28.4,
-        zoom: 16.64,
-        speed: 0.38,
-    }
-}, {
-    "id": "13",
-    "title": "Trinity Health of New England",
-    "address": "114 Woodland St, Hartford, CT 06105",
-    "subtitle": "LED Lighting Upgrades", 
-    "description": "Fairbanks Energy Services also completed lighting and lighting controls efficiency solutions at three of Trinity Health of New England hospitals, with annual electricity savings of over 8 million kWh.<br><br> <b> TOTAL INCENTIVE: $2,900,000 <br><br> TOTAL ANNUAL kWh SAVINGS: 8,000,000 kWh</b><br><br><p style='font-size:19px;color:#337d49'><b>TOTAL ANNUAL SAVINGS: $1,400,000</b></p>",
-    "picture": "img/13.jpg",
-    "logo": "img/logos/trinity.png",
-    "camera": {
-        center: [-72.7006005, 41.7749634],
         bearing: 28.4,
         zoom: 16.64,
         speed: 0.38,
