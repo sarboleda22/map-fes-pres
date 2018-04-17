@@ -59,7 +59,7 @@ var locations = [{
     "title": "111 8th Avenue Multi-Tenant Colocation Facility",
     "address": "111 8th Ave, New York, NY 10011",
     "subtitle": "Mechanical Systems Upgrade",
-    "description": "Inside 111 8th Avenue’s landmark multitenant colocation facilityFairbanks Energy has worked with multiple clients on a variety of projects including integration of power equipment like transfer switches, branch circuit monitoring kits, and CRAC/CRAH units, monitoring and control of pumps and condensers/dry-cooler equipment, and airflow best practices in server rows. The combination of these different systems in an intelligent Building Automation System (BMS) benefits clients by enabling the display of real-time Power Usage Effectiveness metrics and granular monitoring and control over HVAC equipment based upon sensed temperature and humidity. <br><br><b>Total Annual Savings: $167,000 <br><br> Total Annual kWh Savings: 2,000,800 kWh <br><br> Total Incentive: $248,000 <br><br> Project Payback: 1.45 years <br></b>",
+    "description": "Inside 111 8th Avenue’s landmark multitenant colocation facility, Fairbanks Energy has worked with multiple clients on a variety of projects including integration of power equipment like transfer switches, branch circuit monitoring kits, and CRAC/CRAH units, monitoring and control of pumps and condensers/dry-cooler equipment, and airflow best practices in server rows. The combination of these different systems in an intelligent Building Automation System (BMS) benefits clients by enabling the display of real-time Power Usage Effectiveness metrics and granular monitoring and control over HVAC equipment based upon sensed temperature and humidity. <br><br><b>Total Annual Savings: $167,000 <br><br> Total Annual kWh Savings: 2,000,800 kWh <br><br> Total Incentive: $248,000 <br><br> Project Payback: 1.45 years <br></b>",
     "picture": "img/3.jpg",
     "logo": "",
     "camera": {
@@ -87,7 +87,7 @@ var locations = [{
     "title": "Massachusetts General Hospital",
     "address": "55 Fruit St, Boston, MA 02114",
     "subtitle": "Comprehensive Upgrades", 
-    "description": "Since 2014, Fairbanks Energy has contracted with Massachusetts General Hospital under their Strategic Energy Master Plan. Fairbanks Energy has completed more than 30 energy efficiency projects at MGH at a variety of the hospital’s buildings on its main campus, in addition to other efficiency enhancements in its facilities throughout Boston. <br><br> <b>Total Incentive: $1,600,000 <br><br> Total Annual kWh Savings: 7,000,000 kWh </b> <br><br> <p style='font-size:18px;color:#337d49;'><b> Total Annual Savings: $1,250,000</b></p> ",
+    "description": "Since 2014, Fairbanks Energy has contracted with Massachusetts General Hospital under their Strategic Energy Master Plan. Fairbanks Energy has completed more than 30 energy efficiency projects at MGH at a variety of the hospital’s buildings on its main campus, in addition to other efficiency enhancements in its facilities throughout Boston. <br><br><b> Total Annual Savings: $1,250,000 <br><br> Total Annual kWh Savings: 7,000,000 kWh <br><br> Total Incentive: $1,600,000 </b>",
     "picture": "img/5.jpg",
     "logo": "img/logos/mgh.jpg",
     "camera": {
@@ -101,7 +101,7 @@ var locations = [{
     "title": "Edward-Elmhurst Health",
     "address": "1804 N Naper Blvd, Naperville, IL 60563",
     "subtitle": "LED Lighting Upgrade",
-    "description": "Fairbanks Energy Services completed a series of energy efficiency upgrades at Edward-Elmhurst Health, resulting in Total Annual Savings of $1.9 million. A turn-key solution, the project replaced or retrofitted more than 38,000 inefficient halogen, incandescent, fluorescent and metal halide fixtures with modern LEDs. A variety of indoor spaces were improved through the initiative, including: common areas, nurse stations, cafeterias, offices, mechanical rooms, conference rooms, fitness centers and parking areas. <br><br><b>Total Annual Savings: $2,000,000 <br><br> Total Annual kWh Savings: 15,000,000 kWh <br><br> Total Incentive: $343,000 <br><br> Project Payback: 2.6 years <br></b>",
+    "description": "Fairbanks Energy Services completed a series of energy efficiency upgrades at 10 different locations across the three main Edward-Elmhurst campuses. A turn-key solution, the project replaced or retrofitted more than 38,000 inefficient halogen, incandescent, fluorescent and metal halide fixtures with modern LEDs. As a result of these efforts, annual electrical consumption for Edward-Elmhurst Health has been reduced by 15,000,000 kWh, which is 70% of their previous annual lighting energy usage. <br><br><b>Total Annual Savings: $2,000,000 <br><br> Total Annual kWh Savings: 15,000,000 kWh <br><br> Total Incentive: $343,000 <br><br> Project Payback: 2.6 years <br></b>",
     "picture": "img/4.jpg",
     "logo": "img/logos/edward.png",
     "camera": {
@@ -157,7 +157,7 @@ var locations = [{
     "title": "Hotel 140",
     "address": "140 Clarendon St, Boston, MA 02116",
     "subtitle": "LED Lighting Upgrades", 
-    "description": "Similarly, Fairbanks Energy completed a LED lighting and lighting controls upgrade throughout Hotel 140’s basement, elevator lobbies, hallways and kitchenette/lounge, saving the customer $19,000 annually. <br><br><b>Total Annual Savings: $19,000 <br><br> Total Annual kWh Savings: 117,000 kWh <br><br> Total Incentive: $20,000 <br><br> Project Payback: 3 years <br></b>",
+    "description": "Fairbanks Energy completed a LED lighting and lighting controls upgrade throughout Hotel 140’s basement, elevator lobbies, hallways and kitchenette/lounge, saving the customer $19,000 annually. <br><br><b>Total Annual Savings: $19,000 <br><br> Total Annual kWh Savings: 117,000 kWh <br><br> Total Incentive: $20,000 <br><br> Project Payback: 3 years <br></b>",
     "picture": "img/7.jpg",
     "logo": "img/logos/hotel140.jpg",
     "camera": {
@@ -185,7 +185,7 @@ var locations = [{
     "title": "Trinity Health of New England",
     "address": "114 Woodland St, Hartford, CT 06105",
     "subtitle": "Mechanical Upgrades", 
-    "description": "Trinity Health of New England contracted with Fairbanks Energy Services to develop and implement different mechanical efficiency solutions at three of its hospitals - St Francis Hospital and Mt Sinai Hospital in Hartford CT and Johnson Memorial Medical Center in Stafford Springs CT. The total cost of the efficiency solutions is approximately $6 million with annual gas and oil savings of over 260,000 therms. FES accessed the Connecticut Energy Efficiency Fund through Eversource and CNG for over $3,250,000 of incentives. <br><br><b>Total Annual Savings: $980,000 <br><br> Total Annual kWh Savings: 5,700,000 kWh <br><br> Total Incentive: $2,000,000 <br><br></b>",
+    "description": "Trinity Health of New England contracted with Fairbanks Energy Services to develop and implement mechanical efficiency solutions at three of its hospitals. The total cost of the efficiency solutions is approximately $6 million with annual gas and oil savings of over 260,000 therms. FES accessed the Connecticut Energy Efficiency Fund through Eversource and CNG for over $3,250,000 of incentives. <br><br><b>Total Annual Savings: $980,000 <br><br> Total Annual kWh Savings: 5,700,000 kWh <br><br> Total Incentive: $2,000,000 <br><br></b>",
     "picture": "img/8.jpg",
     "logo": "img/logos/trinity.png",
     "camera": {
@@ -213,7 +213,7 @@ var locations = [{
     "title": "Providence College",
     "address": "1 Cunningham Square, Providence, RI 02918",
     "subtitle": "LED Lighting Upgrade", 
-    "description": "Fairbanks Energy completed an LED lighting and lighting controls upgrade at Providence College Phillips Memorial Library.  Fairbanks Energy retrofitted a total of 2,956 fixtures, saving Providence College $179,000 annually. <br><br><b>Total Annual Savings: $1,400,000 <br><br> Total Annual kWh Savings: 2,200,000 kWh <br><br> Total Incentive: $477,000 <br><br> Project Payback: 2 years <br></b>",
+    "description": "Fairbanks Energy completed an LED lighting and lighting controls upgrade at Providence College Phillips Memorial Library.  Fairbanks Energy retrofitted a total of 2,956 fixtures, saving Providence College $179,000 annually. <br><br><b>Total Annual Savings: $179,000 <br><br> Total Annual kWh Savings: 2,200,000 kWh <br><br> Total Incentive: $477,000 <br><br> Project Payback: 2 years <br></b>",
     "picture": "img/9.jpg",
     "logo": "img/logos/providence.jpg",
     "camera": {
@@ -232,6 +232,20 @@ var locations = [{
     "logo": "img/logos/zcolo.png",
     "camera": {
         center: [-96.7935828, 32.9230277],
+        bearing: 28.4,
+        zoom: 16.64,
+        speed: 0.38,
+    }
+}, {
+    "id": "16",
+    "title": "Lindt & Sprungli USA Inc.",
+    "address": "1 Fine Chocolate Pl, Stratham, NH 03885",
+    "subtitle": "LED Lighting Upgrade", 
+    "description": "Fairbanks Energy Services completed an LED lighting and lighting controls project at Lindt & Sprungli’s production facility in Stratham, NH. Fairbanks Energy’s engineers replaced 1,162 fixtures with LED lighting with integrated advanced lighting controls, that dynamically determine light levels using onboard occupancy and daylight sensors. As a result, Lindt saves over $345,000 in energy costs each year, with a simple project payback of just 2 years. <br><br><b>Total Annual savings: $345,000 <br><br> Total Annual kWh Savings: 2,670,000 kWh <br><br> Project Payback: 2 years <br></b>",
+    "picture": "img/16.png",
+    "logo": "img/logos/lindt.png",
+    "camera": {
+        center: [-70.8921275, 42.977622],
         bearing: 28.4,
         zoom: 16.64,
         speed: 0.38,
