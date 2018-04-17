@@ -241,7 +241,7 @@ var locations = [{
     "title": "Lindt & Sprungli USA Inc.",
     "address": "1 Fine Chocolate Pl, Stratham, NH 03885",
     "subtitle": "LED Lighting Upgrade", 
-    "description": "Fairbanks Energy Services completed an LED lighting and lighting controls project at Lindt & Sprungli’s production facility in Stratham, NH. Fairbanks Energy’s engineers replaced 1,162 fixtures with LED lighting with integrated advanced lighting controls, that dynamically determine light levels using onboard occupancy and daylight sensors. As a result, Lindt saves over $345,000 in energy costs each year, with a simple project payback of just 2 years. <br><br><b>Total Annual savings: $345,000 <br><br> Total Annual kWh Savings: 2,670,000 kWh <br><br> Project Payback: 2 years <br></b>",
+    "description": "Fairbanks Energy Services completed an LED lighting and lighting controls project at Lindt & Sprungli’s production facility in Stratham, NH. Fairbanks Energy’s engineers replaced 1,162 fixtures with LED lighting with integrated advanced lighting controls, that dynamically determine light levels using onboard occupancy and daylight sensors. As a result, Lindt saves over $345,000 in energy costs each year, with a simple project payback of just 2 years. <br><br><b>Total Annual Savings: $345,000 <br><br> Total Annual kWh Savings: 2,670,000 kWh <br><br> Project Payback: 2 years <br></b>",
     "picture": "img/16.png",
     "logo": "img/logos/lindt.png",
     "camera": {
