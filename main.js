@@ -227,7 +227,7 @@ var locations = [{
     "title": "zColo Hillcrest Data Center",
     "address": "6606 LBJ Freeway Dallas, Texas",
     "subtitle": "Data Center Airflow Management Project", 
-    "description": "At zColo’s 14,000 square feet Dallas data center, Fairbanks Energy implemented an airflow management upgrade providing adequate cooling to the racks of the equipment while allowing for units to be turned off or in hot stand-by. The project saves zColo $68,000 each year in electricity costs. <br><br><b>Total Annual Savings: $68,000 <br><br> Total Annual kWh Savings: 970,000 kWh <br><br> Project Payback: 1.4 years <br></b>",
+    "description": "At zColo’s 14,000 square feet Dallas data center, Fairbanks Energy implemented an airflow management upgrade including open top cold aisle containment and a Building Automation System that includes temperate sensors in the cold aisles and control modules that provide real time data on how the units are being used. <br><br><b>Total Annual Savings: $68,000 <br><br> Total Annual kWh Savings: 970,000 kWh <br><br> Project Payback: 1.4 years <br></b>",
     "picture": "img/10.jpeg",
     "logo": "img/logos/zcolo.png",
     "camera": {
