@@ -16,17 +16,6 @@ var picture = document.getElementById('location-picture');
 var address = document.getElementById('location-address');
 
 var locations = [{
-    "title": "",
-    "description": "",
-    "picture": "",
-    "logo": "",
-    "camera": {
-        center: [-96.1476785, 40.2744218],
-        zoom: 4.15,
-        bearing: 0,
-        pitch: 0,
-    }
-}, {
     "id": "2",
     "title": "zColo 60 Hudson Data Center",
     "address": "60 Hudson St, New York, NY 10013",
