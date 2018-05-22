@@ -273,7 +273,7 @@ function playback(index) {
             // Increment index
             index = (index + 1 === locations.length) ? 0 : index + 1;
             playback(index);
-        }, 15000); // After callback, show the location for 3 seconds.
+        }, 5000); // After callback, show the location for 5 seconds.
     });
 }
 // Display the last title/description first
